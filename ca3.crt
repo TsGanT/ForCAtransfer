@@ -1,0 +1,79 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=MD, O=JHU, OU=ISI, CN=jhuca2.edu/emailAddress=stang47@jhu.edu
+        Validity
+            Not Before: Nov 24 19:07:00 2019 GMT
+            Not After : Feb 10 19:07:00 2028 GMT
+        Subject: C=US, ST=MD, O=JHU, OU=ISI, CN=jhuca3.edu/emailAddress=stang47@jhu.edu
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:c0:43:08:8b:1f:fc:2c:f2:4f:a8:5d:26:57:f0:
+                    f7:99:8c:61:59:87:68:45:93:ef:26:ee:89:ef:16:
+                    82:e3:db:bd:0a:fe:4d:22:c9:4b:0b:61:fd:bc:5a:
+                    31:db:23:7e:c8:6a:31:d3:1f:0d:85:5b:de:fa:8a:
+                    23:73:b6:a7:e0:bd:8b:56:46:d5:6d:ba:28:cd:6a:
+                    e3:d5:4e:b9:9a:a1:a6:0a:52:d0:65:f5:12:33:9b:
+                    ba:79:f2:62:1d:d2:5e:a1:09:64:6c:e5:9b:79:b2:
+                    8b:ff:8d:8a:06:ec:67:5c:6c:ea:36:4f:46:9c:53:
+                    5a:84:45:52:c9:fc:79:68:2f:82:95:f8:b0:f9:ae:
+                    4c:8f:c6:72:d0:00:30:55:c9:06:74:05:e6:60:00:
+                    57:81:8f:41:b0:31:1a:22:49:d3:10:4a:7e:3c:a0:
+                    e9:ca:4b:56:bc:8c:48:8f:3e:4c:0c:bd:1e:31:5b:
+                    8a:42:04:3b:4b:1e:3d:99:3c:5c:5f:03:f1:b3:87:
+                    3d:5f:1f:bf:1d:c5:a6:d9:c6:1e:be:7f:59:dd:58:
+                    42:e9:d6:ec:f9:f0:d5:b9:d2:61:f3:bd:63:44:a2:
+                    43:17:fd:54:0e:a9:dd:33:b5:7b:ec:88:85:80:6e:
+                    42:47:18:df:3b:0b:ac:25:7b:c8:23:da:fd:68:a2:
+                    a7:c7
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                AF:2A:F9:0A:0F:3D:D5:E1:6E:2B:DB:C0:6C:D5:ED:5F:56:1B:CF:5F
+            X509v3 Authority Key Identifier: 
+                keyid:69:3D:87:08:4E:8E:DD:C9:15:38:85:82:EC:21:84:96:B3:17:24:DE
+
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+    Signature Algorithm: sha256WithRSAEncryption
+         67:6d:f8:07:b8:f1:a7:80:e3:54:ec:4b:44:e4:75:98:b7:77:
+         23:70:46:36:da:2c:72:6a:d3:1a:5e:82:9a:13:0b:11:c0:42:
+         f8:62:dc:42:7e:5d:15:7b:ba:82:84:78:4f:bc:3f:4e:23:9f:
+         c0:85:4d:c6:44:ba:e8:19:f8:2d:f6:54:4a:cf:92:88:d5:21:
+         3c:92:a2:70:d7:40:40:fb:08:7e:8b:d4:b8:df:81:7d:b1:d5:
+         52:20:ca:76:14:da:c8:a6:30:5c:ed:4b:b0:43:a4:72:72:1e:
+         4d:44:32:d6:d7:f0:6e:63:60:7c:55:c4:c3:f6:6f:9e:09:12:
+         e4:fc:62:44:a6:2b:c7:14:fb:a6:31:bc:19:c8:65:c6:55:43:
+         5e:db:7a:6f:7c:e7:9d:64:38:32:66:fa:23:2a:e8:fe:f4:bc:
+         3d:d0:65:f0:bc:d1:63:0d:d8:e7:ac:2a:88:34:75:2a:69:76:
+         9f:b9:ac:dc:44:d1:d6:cd:46:a5:49:b7:d5:19:2f:49:1e:64:
+         4b:7b:a8:a0:89:a9:9e:f9:0c:a2:33:88:4d:72:f3:db:19:85:
+         1e:76:cd:ac:1b:e7:cb:8f:dd:b3:1b:74:3a:75:b0:ac:0b:8d:
+         da:78:c0:8d:54:a9:0d:89:4d:4e:a6:2a:cc:eb:ea:64:4c:e7:
+         12:79:54:3b
+-----BEGIN CERTIFICATE-----
+MIIDpDCCAoygAwIBAgIBATANBgkqhkiG9w0BAQsFADBrMQswCQYDVQQGEwJVUzEL
+MAkGA1UECAwCTUQxDDAKBgNVBAoMA0pIVTEMMAoGA1UECwwDSVNJMRMwEQYDVQQD
+DApqaHVjYTIuZWR1MR4wHAYJKoZIhvcNAQkBFg9zdGFuZzQ3QGpodS5lZHUwHhcN
+MTkxMTI0MTkwNzAwWhcNMjgwMjEwMTkwNzAwWjBrMQswCQYDVQQGEwJVUzELMAkG
+A1UECAwCTUQxDDAKBgNVBAoMA0pIVTEMMAoGA1UECwwDSVNJMRMwEQYDVQQDDApq
+aHVjYTMuZWR1MR4wHAYJKoZIhvcNAQkBFg9zdGFuZzQ3QGpodS5lZHUwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDAQwiLH/ws8k+oXSZX8PeZjGFZh2hF
+k+8m7onvFoLj270K/k0iyUsLYf28WjHbI37IajHTHw2FW976iiNztqfgvYtWRtVt
+uijNauPVTrmaoaYKUtBl9RIzm7p58mId0l6hCWRs5Zt5sov/jYoG7GdcbOo2T0ac
+U1qERVLJ/HloL4KV+LD5rkyPxnLQADBVyQZ0BeZgAFeBj0GwMRoiSdMQSn48oOnK
+S1a8jEiPPkwMvR4xW4pCBDtLHj2ZPFxfA/Gzhz1fH78dxabZxh6+f1ndWELp1uz5
+8NW50mHzvWNEokMX/VQOqd0ztXvsiIWAbkJHGN87C6wle8gj2v1ooqfHAgMBAAGj
+UzBRMB0GA1UdDgQWBBSvKvkKDz3V4W4r28Bs1e1fVhvPXzAfBgNVHSMEGDAWgBRp
+PYcITo7dyRU4hYLsIYSWsxck3jAPBgNVHRMBAf8EBTADAQH/MA0GCSqGSIb3DQEB
+CwUAA4IBAQBnbfgHuPGngONU7EtE5HWYt3cjcEY22ixyatMaXoKaEwsRwEL4YtxC
+fl0Ve7qChHhPvD9OI5/AhU3GRLroGfgt9lRKz5KI1SE8kqJw10BA+wh+i9S434F9
+sdVSIMp2FNrIpjBc7UuwQ6Rych5NRDLW1/BuY2B8VcTD9m+eCRLk/GJEpivHFPum
+MbwZyGXGVUNe23pvfOedZDgyZvojKuj+9Lw90GXwvNFjDdjnrCqINHUqaXafuazc
+RNHWzUalSbfVGS9JHmRLe6igiame+QyiM4hNcvPbGYUeds2sG+fLj92zG3Q6dbCs
+C43aeMCNVKkNiU1OpirM6+pkTOcSeVQ7
+-----END CERTIFICATE-----
